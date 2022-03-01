@@ -1,0 +1,304 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prima pars. De comparatis comparandis: seu iustificationis Regis Caroli, comparatè, contra Parliamentum. Or The first part of things compared: or Of the iustification of King Charles comparitively against the Parliament. Wherein is manifested, that by the cunning contrivance of a wicked party in the House of Commons, who by their fraud, and subtilty, deceive and seduce the major part of the House for their own ambitious ends, our oppressions have been made far more grievous, then they were in the Kings dayes, the course of justice, and reliefe of grievances, is obstructed, and our troubles and pressures are still continued. ... With the names of the heads, of the usurping faction, and advice to all the free men of England, to beware of them, and to take a speedy course to remove and expell them, together with an intimation of a way to effect the same.</title>
+            <title>De comparatis comparandis. Part 1</title>
+            <author>Wilbee, Amon.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96471</idno>
+            <idno type="STC">Wing W2113</idno>
+            <idno type="STC">Thomason E396_11</idno>
+            <idno type="STC">ESTC R201647</idno>
+            <idno type="EEBO-CITATION">99862147</idno>
+            <idno type="PROQUEST">99862147</idno>
+            <idno type="VID">160344</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96471)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160344)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E396[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prima pars. De comparatis comparandis: seu iustificationis Regis Caroli, comparatè, contra Parliamentum. Or The first part of things compared: or Of the iustification of King Charles comparitively against the Parliament. Wherein is manifested, that by the cunning contrivance of a wicked party in the House of Commons, who by their fraud, and subtilty, deceive and seduce the major part of the House for their own ambitious ends, our oppressions have been made far more grievous, then they were in the Kings dayes, the course of justice, and reliefe of grievances, is obstructed, and our troubles and pressures are still continued. ... With the names of the heads, of the usurping faction, and advice to all the free men of England, to beware of them, and to take a speedy course to remove and expell them, together with an intimation of a way to effect the same.</title>
+                  <title>De comparatis comparandis. Part 1</title>
+                  <author>Wilbee, Amon.</author>
+               </titleStmt>
+               <extent>[2], 40, [6] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>Oxford, [i.e. London :</pubPlace>
+                  <date>Printed in the yeare, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the reader" signed: Amon Wilbee.</note>
+                  <note>The imprint is false. "A London counterfeit"--Madan.</note>
+                  <note>Annotation on Thomason copy: 'Oxford' crossed out and replaced by "London"; "July 3d".</note>
+                  <note>Variant: period after "compared" in line 4 of title, and no comma after "ends" in line 10.</note>
+                  <note>Imperfect: lacks all after p. 14.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  House of Commons --  Early works to 1800.</term>
+               <term>Civil rights --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160344:1" rendition="simple:additions"/>
+            <p>PRIMA PARS. DE COMPARATIS Comparandis: Seu Iuſtificationis
+<hi>Regis Caroli,</hi> comparatè, contra Parliamentum.</p>
+            <p>Or the firſt part of things compared: or of the iuſtifi<g ref="char:EOLhyphen"/>cation of King <hi>Charles</hi> comparatively againſt the Parliament.</p>
+            <p>Wherein is manifeſted, that by the cunning contrivance of a wicked party in the Houſe of Commons, who by their fraud, and ſubtilty, deceive and ſeduce the major part of the Houſe for their own am<g ref="char:EOLhyphen"/>bitious ends, our oppreſſions have been made far more grievous, then they were in the Kings dayes, the courſe of juſtice, and reliefe of grievances, is obſtructed, and our troubles and preſſures are ſtill continued.</p>
+            <p>With a relation of certain acts of injuſtice, deceit and treaſon, com<g ref="char:EOLhyphen"/>mitted by ſome of them againſt the Kingdome, and certain perſons and particular obſervations of the treaſonable purpoſe, and deſigns of the ſame evill, and treacherous party to ſecure themſelves from juſtice, and to get the Soveraign power into their own hands.</p>
+            <p>With the names of the heads, of the uſurping faction, and advice to all the free men of England, to beware of them, and to take a ſpeedy courſe to remove and expell them, together with an intima<g ref="char:EOLhyphen"/>tion of a way to effect the ſame.</p>
+            <q>
+               <p>Thou therefore that teacheſt another, teacheſt thou not thy ſelfe? thou that teacheſt a man ſhould not ſteale, doſt thou ſteale, thou that ſayeſt a man ſhould not commit adultery, committeſt thou adultery? thou that abhorreſt Idols, committeſt thou Sacriledge? thou that makeſt the boaſt of the Law through breaking of the Law, diſhonoureſt thou God?</p>
+               <bibl>
+                  <hi>Rom. 2.21, 22, 23.</hi>
+               </bibl>
+            </q>
+            <q>
+               <l>Turpe eſt Doctori cum culpa redarguit ipſum.</l>
+               <l>Parve nec invidio, ſine me liber ibis in urbem,</l>
+               <l>Hei mihi quòd Domino, non licet ire tuo.</l>
+            </q>
+            <p>OXFORD, Printed in the Yeare, 1647.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:160344:2"/>
+            <pb facs="tcp:160344:2"/>
+            <head>To the Reader. Vouchſafe to read, and then iudge.</head>
+            <p>
+               <seg rend="decorInit">T</seg>O avoid all miſunderstanding: and leſt I may ſeem in ſome weake mens apprehenſions, by this unexpected <hi>Com<g ref="char:EOLhyphen"/>pariſon,</hi> or <hi>Comparitive juſtification of the King,</hi> abſolutely to juſtifie the <hi>King,</hi> and condemn the whole <hi>Parliament.</hi> I conceive it expedient to prefix this E<g ref="char:EOLhyphen"/>piſtle for the information of all men, concerning my ſelfe, and my meaning in this matter. As I never hated my <hi>King,</hi> (which God forbids) So I alwayes honoured, and adhered to the
+<hi>Parliament,</hi> as the ſupreame judicatorie, and chiefe, conſervatorie of the lawes, rights, and liberties of the land. I am neither Prieſt, or Jeſuit. Malignant, Delinquent or Papiſt: but one who have ever loved the truth, and the re<g ref="char:EOLhyphen"/>publique: and have expoſed my ſelfe (as can be teſtified) as freely and as farre as any whatſoever, for the preſervation and promotion of both under the Par<g ref="char:EOLhyphen"/>liament. And this my <hi>Compariſon</hi> doth no more juſtifie the <hi>King de facto</hi> or condemne the Parliament,
+<hi>in toto;</hi> then Chriſts upbraiding of <hi>Chorazin</hi> and
+<hi>Bethzaida,</hi> with <hi>Tyre</hi> and <hi>Zidon,</hi> and Capernaum, with
+<hi>Sodome</hi> and <hi>the Scribes, and Phariſees, with common Harlots, Publicans and Sin<g ref="char:EOLhyphen"/>ners, doth juſtifie Tyre and Zidon, Sodome, and Common Harlots, Publicans and Sinners, and condemn Chorazin, and Bethzaida, Ca<g ref="char:EOLhyphen"/>pernaum, the Scribes and Phariſees.</hi> For I am not ignorant, that there are a company (the which the Lord preſerve and multiply) of faithfull and up<g ref="char:EOLhyphen"/>right men in the Parliament, (who ever ſhall have my heart and hand) whoſe ends and endeavours, are wholly to ſet up the <hi>Goſpel</hi> in the power of it, to doe <hi>right</hi> to their <hi>King,</hi> and to diſcharge their truſt to the <hi>Kingdome,</hi> in ſeeing iuſtice impartially executed, and our lawes and liberties eſtabliſhed according to their Oath taken at their entrance, the duty of their place, and the Proteſta<g ref="char:EOLhyphen"/>tion. But there is a party or faction in the Houſe of Commons, (the heads of <pb facs="tcp:160344:3"/>which I have named) of falſe, ambitious, deceitfull, coveteous, heady, high minded-men, whoſe ends are their owne
+<hi>opulency</hi> and <hi>greatneſſe,</hi> and our in<g ref="char:EOLhyphen"/>digency, and vaſſalage, who like the ſons of <hi>Zerviah</hi> are too hard for them: for theſe ill kind of men, by their cunning craftineſſe, doe deceive and ſeduce the <hi>Maior part of the Houſe of Commons,</hi> to aſſiſt in their deſtructive counſells and votes, and by this meanes
+<hi>overpower</hi> the honeſt and upright in the diſcharge of their duties: but the Lord hath ſaid, that he <hi>will reward the evill doer according to his wickedneſſe, 2</hi> Sam <hi>3.39. And the diſcove<g ref="char:EOLhyphen"/>ry</hi> of theſe mens (the cauſers and contrivers of all our troubles) deep Hypocri<g ref="char:EOLhyphen"/>ſie and hatefull treachery, to the too long oppreſſed and abuſed free people of
+<hi>England</hi> is all my ſcope and purpoſe, having principally therein, no other end of advantage then Gods glory, the good of his people, and the preſervation and freedome of my native <hi>Country,</hi> which at preſent is over whelmed in confuſi<g ref="char:EOLhyphen"/>on and miſery, that the ſecret and inward enemies thereof (as well as the open and publique) which doe now only impede the accompliſhment of our ſettlement and tranquillity, may be detected, depreſſed and taken out of the way: that ſo the parliament may be rectified, and preſerved intire and upright, in its Power the good therein strengthned and incouraged, and our lawes and liber<g ref="char:EOLhyphen"/>ties eſtabliſhed, and kept inviolate. So ſhall <hi>iuſtice run downe in our ſtreets as ſtreames, and righteouſneſſe as great waters.</hi> Read therefore conſide<g ref="char:EOLhyphen"/>rately, conſider ſeriouſly, iudge impartially, and improve all thy power, inte<g ref="char:EOLhyphen"/>reſt and parts accordingly, for the ſuppreſſing the wickedneſſe of the wicked, and advancing of righteousneſſe and truth within this our land. In which I ſhall be ever willing and ready, who acknowledge my ſelf Gods, and my Coun<g ref="char:EOLhyphen"/>tryes, and thine if thou art theirs.</p>
+            <closer>
+               <signed>Amon Willbee.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:160344:3"/>
+            <head>Prima Pars. De Comparatis Comparandis. Seu Iuſtificationis Re<g ref="char:EOLhyphen"/>gis <hi>Caroli,</hi> compara<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>è, contra Parliamentum.</head>
+            <head type="sub">Or the firſt part of things compared.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Eare Oye Country men, and harken all ye free borne Commons of
+<hi>England,</hi> marke and mind ſeriouſly what I ſhall ſay: Doe not read only, and ſo lay it by, but weight it alſo well in your minds, and fix it in your memories, let it af<g ref="char:EOLhyphen"/>fect your ſpirits, and worke upon your judge<g ref="char:EOLhyphen"/>ments, leaſt yee ſuddenly periſh. For I will re<g ref="char:EOLhyphen"/>late no fictions but reall truths: nor are my de<g ref="char:EOLhyphen"/>ſires and intentions any other, then to diſcover unto you your dangers that ye may ſpeedily apply your ſelves, unto ſuch meanes as God hath given and left you, to ſave and ſecure your ſelves, and your poſterities, your Eſtates, Laws, and Liberties, which are at this preſent in extream hazard, and that yee your ſelves may (by way of Compariſon) diſcern and be Judges, whether the evils of government which we underwent in the dayes of the King, by his evill inſtruments, or theſe we now ſuf<g ref="char:EOLhyphen"/>fer under the Parliament, (which ought to be our ſoveraign helpe) be moſt grievous and in excuſable, and whether our preſent condition be not much <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> more perillous and intollerable, then it was in thoſe times. And I will declare unto you, the chiefe Authors and promoters of theſe our evills, and of the obſtructions of Juſtice and redreſſe: Or who by their power and cunning crafty working, impoſe upon, and deceive the Maior part of the Houſe of Commons, whereby all acts for the good of the publique are diverted, all ſettlement is protracted, the whole Kingdome and frame of government is indangered, and the power and authority of parliament is diſhonoured, blemiſhed and made contemptible.</p>
+            <pb n="4" facs="tcp:160344:4"/>
+            <p>J doe remember that after the Kings return in 1641. from the Par<g ref="char:EOLhyphen"/>liament in <hi>Scotland,</hi> divers jealouſies did ariſe in the apprehention of this preſent Parliament in <hi>England,</hi> concerning a ſtrong deſigne by a Malignant Jeſuited party, to devide the King and Parliament, and to deprive the people of the fruit of all the Parliaments earneſt and faith<g ref="char:EOLhyphen"/>full labours and endeavours (as they then affirmed, for the eſtabliſhing the people in ſafety, peace and happineſſe. Whereupon they fall on declaring, and in <hi>Decemb.</hi> 1642. they publiſh a large Remonſtrance to the whole kingdome, conteining the roots, growth, meanes, oblique and direct, together with the actors and promotors of this deſigne for the ſubverting the fundamentall lawes and principles of this govern<g ref="char:EOLhyphen"/>ment, wherein after ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me matter of introduction) among other things as miſpriſions in the Kings government, They complain of, <hi>charging the Kingdom with
+<gap reason="illegible" resp="#OXF" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>ting
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ldiers, and of a concomitant deſign of Germain Horſe, that the land might either ſubmit with fear, or be inforced with rigour to ſuch arbitrary contributions as ſhould be required of them.</hi> And I pray you fellow Commoners, ſtands not the Parliament guilty of this ac<g ref="char:EOLhyphen"/>cuſation, of billerting Soldiers on the Kingdome, even ever ſince they raiſed armes, and that in a more intollerable manner then that was in thoſe times? For the Parliament by themſelves and their diſtr ying Committees, and Commiſſions, have levied great taxes<g ref="char:punc">▪</g> and raiſed large ſums of money in all parts (the which the King did not) with a pretence to pay the Soldiers, that they might in all places pay their quarters, yet was the Soldier never paid, but the Country were both aſſeſſed and exhauſted, and alſo burthened with free quarterings, and nevertheleſſe, if the people refuſed to pay their taxes, the Committees ſent a party of horſe, and either took the perſons priſoners (as well friends as adverſaries) or plunder them, the which I am ſure was fully anſwerable to that <hi>Concommitant deſign,</hi> (which was then as themſelves doe ſay but intended) <hi>of German Horſe:</hi> And I doe wiſh there were not now in hard a deſigne (by an ambitious party in the Parliament) for the eſtabliſhment and making perpetual of this ſame inſſaving practice <hi>of billitting Solders and German horſe (as they call it)</hi> throughout the Kingdome, that thereby the people may
+<hi>either ſubmit with feare, or be enforced with rigour to pay ſuch arbitrary contributions as ſhall be exacted of them:</hi> But alas it is too manifeſt a man halfe blind may ſee it. But it will be ſaid, the Parliament have been neceſſitated to this, there hath been I conteſte a neceſſity of raiſing Soldiers, but not of billitting them
+<pb n="5" facs="tcp:160344:4"/>without paying their quarters. For the Parliament and their Commit<g ref="char:EOLhyphen"/>tees, have raiſed unſpeakable ſums to pa<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th. Soldiers, to the end they might pay their quarters the which they or their Committees (as is ſuſpected) have put into their own purſes, and never paid them but burthened the Country, notwithſtanding with free quarters. They complaine alſo of the <hi>Kings raiſing great ſums by way of Privie Seales, proportionable to ſubſidies.</hi>
+            </p>
+            <p>And have not the Parliament done the ſelfe ſame thing, by way of publique faith, and that much more abundant, Aske <hi>London,</hi> and a numberleſs multitude of all ſorts of perſons, and they will with no leſſe then heavie ſighes, teſtifie this truth. And whether had yee rather a Privie Seale, or the publique ſaith? <hi>Verum horum mavis accipe,</hi> many feare the laſt will prove the worſt ſecurities. They complain alſo, of an <hi>uniuſt and pernicious attempt to extort great payments from the Subiect by way of Exciſe.</hi> This it ſeemes was then but an <hi>Attempt,</hi> but the Parlia<g ref="char:EOLhyphen"/>ment, have notwithſtanding the
+<hi>iniuſtice and perniciouſneſſe of it,</hi> really acted it, and ſo by their owne tearmes they have herein exceeded the King, for <hi>iniuſt and pernitious</hi> dealing. They complaine alſo, that the <hi>Petition of Right, which was granted in full Parliament, was blaſted by an illegall Declaration, and of the preſumptuous injuſtice of ſuch Miniſters as durſt breake the lawes, and ſuppreſſe the liberties of the Kingdome.</hi> The
+<hi>Pe<g ref="char:EOLhyphen"/>tition of Right</hi> was then (as themſelves ſay) only <hi>blaſted by an illegall De<g ref="char:EOLhyphen"/>claration:</hi> But have not they ſince <hi>blaſted</hi> it, and made it alſo fruitleſſe, by a multiude of illegall actions, as falſe impriſonments, and exami<g ref="char:EOLhyphen"/>ning of men (after the manner of the Courts of Star Chamber, and High Commiſſion) upon Interrogatories againſt themſelves, and with many other like unjuſt practiſes, as herein after more plainly ap<g ref="char:EOLhyphen"/>pears. And I appeal to all, if ever any manifeſted more
+<hi>preſumption,</hi> in daring to <hi>break the lawes, and ſuppreſſe the liberties of this Kingdom,</hi> then many of themſelves? They alſo complain <hi>of the illegall impriſonment</hi> (by the King) <hi>of ſome Members of the Houſe of Commons at the breaking up of the Parliament</hi> 40.
+<hi>Car. deteining them cloſe priſoners, &amp;c. not permitting their wives to come unto them. &amp;c. and ſo keeping them in this oppreſſed con<g ref="char:EOLhyphen"/>dition, by reaſon of which their cruell and harſh impriſonment ſome have dyed, whoſe blood</hi> (as they ſay) <hi>cryes for vengeance or repentance of the Miniſters, of State, who at once obſtructed both the courſe of his Majeſties juſtice and mercy.</hi> I will not here diſcuſſe the impriſonning of Sir <hi>Ra. Hopton<g ref="char:punc">▪</g>
+               </hi> and Mr.
+<hi>Martin,</hi> two of their own Members, for ſpeaking their minds free<g ref="char:EOLhyphen"/>in
+<pb n="6" facs="tcp:160344:5"/>in the Houſe of Commons, albeit without queſtion, one if not both the commitments (for the cauſes were contrary) were illegall, and contrary to the law and cuſtome of Parliament: but it is certain they have in all reſpects juſtified this act of the Kings, by inflicting the ſame meaſure of injuſtice and cruelty upon divers of their fellow Members of the body politique (as on L. C. <hi>John Lilburn,</hi> Mr. <hi>Muſgrave,</hi> Mr.
+<hi>Rich. Overton,</hi> and his wife, both Mr. <hi>Larners</hi> ſervants and others) which they ſo much condemn in his Majeſtie and his Miniſters. But the houſe of Commons will happily ſay, that they were committed and thus uſed by the Houſe of Lords. Not all, and beſides, there is an old rule,
+<hi>qui non vetat peccare, cum poteſt jubet.</hi> He who hinders not an evill when it is in his power, commands it. And moreover this is cer<g ref="char:EOLhyphen"/>tain, that many poore priſoners for debt, and others their fellow Sub<g ref="char:EOLhyphen"/>iects (as I ſhall herein plainly demonſtrate) who have petitioned them more then theſe 5. yeares for redreſſe, have through their neglect, by the cruelty &amp; inhumain uſage of Gaolers (Sir <hi>I. L.</hi> of the Kings Bench <hi>Henry Wollaſton</hi> of Newgate, ſuch monſters and others,) been miſera<g ref="char:EOLhyphen"/>bly deſtroyed, and periſhed in priſon: whoſe blood without doubt cryes loud in the eares of the Lord of Hoſts, for vengeance (without repentance) upon tha heads and hearts of them the miniſters of State, who have been intruſted for the preſervation of the Nation, and not<g ref="char:EOLhyphen"/>withſtanding all petitioning, have neither done iuſtice nor ſhewed mercy. No, nor cannot, either by preaching, praying, petitioning, ſpeaking, or any peaceable meanes, be induced unto it. They are not ſo iuſt as the uniuſt Iudge, for he relieved the poore widow becauſe he was importuned, On yee unrighteous men, whereunto doe yee truſt, and what will yee doe in the end?</p>
+            <p>Then they complain, <hi>that upon the diſſolution of the Parliaments un<g ref="char:EOLhyphen"/>true and ſcandalous Declarations were publiſhed, to aſperſe their proceedings, and ſome of their members uniuſtly to make them odious, and colour the vio<g ref="char:EOLhyphen"/>lence which was uſed againſt them. Proclamations ſet out to the ſame purpoſe, to the great deiecting of the hearts of the people, forbiding them even to ſpeake of Parliaments.</hi> Even as their our enemies then in thoſe dayes ſerved them, ſo have a wicked party among them moſt uniuſtly and malici<g ref="char:EOLhyphen"/>ouſly now ſerved their beſt friends and favourers, for on the 30. of <hi>March</hi> laſt, they hearing of a Petition intended to be preſented to them by the Army under his Excellency Sir <hi>T. Fairfax,</hi> for certain iuſt and <pb n="7" facs="tcp:160344:5"/>reaſonable things, as appears by the Petition publiſhed in print, <hi>viz.</hi> For an Ordinance to ſave them harmeleſſe, that they might have their accounts audited, &amp;c. an unjuſt party in the houſe (having not ſo much as ſeene the petition) cauſed them moſt falſely to be declared againſt as mu<g ref="char:EOLhyphen"/>tinous enemies to the State, and diſturbers of the publique peace and that in as ſtately tearmes of royalty, to wit, their high diſlike, as if they were already ſet in their throne) as ever the King uſed: Thus endeavouring to <hi>aſperſe</hi> that Army, which hath done them all the worke and gained them all the honour, and to render them and their friends
+<hi>odious,</hi> by ill repre<g ref="char:EOLhyphen"/>ſentations, whoſe fidelity, obedience, good order, and unity, hath been always admired, even by the publique adverſarie: Beſides their daily making of deſtructive Ordinances, and Orders to perſecure and oppreſſe them and all the Commons of England, and their continuall projects and plottings to deſtroy them and all thoſe, who are contrary to their tyran<g ref="char:EOLhyphen"/>nicall counſells and courſes, to <hi>the deiecting</hi> and diſcomforting generally of all ſorts of people: and as the King and his inſtruments <hi>to colour their violence,</hi> did ſet our Declarations. So hath this evill party by the publiſhed Proteſtation, Vow, Solemn league and Covenant, and manifold falſified Declarations, Hypocriticall Faſts and Humiliations, coloured and coun<g ref="char:EOLhyphen"/>tenanced their abominable irreligion, iniuſtice, oppreſſion, violence, de<g ref="char:EOLhyphen"/>ceit, rapine, cruelty, ambition and treaſon: in ſo much, that the name of Parliament, which throughout paſt generations, hath been ſo joyous and delectable, ſo reſpected and honourable within this Kingdome, is now be<g ref="char:EOLhyphen"/>come an odium, deteſtable and contemptible, and it is to be feated will for time to come, not be accounted a thing ſo much deſireable.</p>
+            <p>After the breaking up of which Parliament, (ſay they)
+<hi>iniuſtice, oppreſ<g ref="char:EOLhyphen"/>ſion and violence, broke in upon us without any reſtraint or moderation.</hi> And truly we may ſay, that ſince the Kings departure from us, <hi>iniuſtice, oppreſſion and violence</hi> and all manner of miſchiefe, hath by the meanes of a company of faithleſſe perfidious men in Parliament been let in, like a ſudden inunda<g ref="char:EOLhyphen"/>tion of mighty waters, upon us, without any true care of reſtraint, or ſin<g ref="char:EOLhyphen"/>cere indeavour to prevent.</p>
+            <p>Then they complaine of <hi>exacting great ſums through the whole kingdome, for defauls of</hi> Knight-hood, <hi>that tunnage and poundage was received without any colour or pretence of Law, many other heavie impoſitions continued againſt law, that ſuch as would not ſubmit to their illegal &amp; unreaſonable payments, were vexed and oppreſſed above meaſure: and the ordinary courſe of iuſtice, the common birth-right of every Subiect in England wholly obſtructed unto them, and that although all this was taken upon pretence of guarding the Seas, yet a new tax of <pb n="8" facs="tcp:160344:6"/>Ship-money was charged upon the Subiect of neare</hi> 70000.
+<abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>ſome years, and yet the ſeas were left ſo naked to the violence of turkiſh Pirates, that many ſhips and Subiects were taken by them, and do ſtill remaine in miſerable ſlaverie.</hi> And hath the Parliament exacted no ſums of money of the Kingdome? Yes more, and farre greater then ever was paid for <hi>Knight hood,</hi> yet then in leiu thereof there was an offer of honour, but loe here there hath not been ſo much as thankes: and to what better uſe doe the parliament put the tunnage and poundage, which they now receive by <hi>pretence of Law,</hi> then the King did when he received it <hi>without pretence of Law,</hi> and what more benefit hath the Kingdome had by it, where, and who is he that can tell? but by what
+<hi>pretence or colour of law</hi> (friends and fellow Commoners) doe theſe men (who were ſo zealous for <hi>Law</hi>) receive the mighty ſums impoſed upon us by way of Exciſe, and weekly aſſeſſement, and ſtill con<g ref="char:EOLhyphen"/>tinue them upon us per force? and ſuch as <hi>will not ſubmit to their illegall, unreaſonable payments</hi> are (as themſelves heretofore complained) <hi>vexed and oppreſſed above meaſure.</hi> And I appeale to the whole Kingdome, whether the <hi>ordinary courſe of i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtice, the Common Birth-right</hi> (as themſelves by chance, are ſo juſt to confeſſe) <hi>of every Subiect of England,</hi> was ever more ge<g ref="char:EOLhyphen"/>nerally and totally <hi>obſtructed,</hi> then now? For the Parliament the Fountain, and ſupream Court of Juſtice, being ſo gr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſly corrupted, how can the ſtreames, the ſubordinate and infe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iour Courts be cleare? and woe unto us for if the eye be dark, how great then is that darkneſſe? but there muſt be ſome timely meanes uſed to purge them, leſt the humours prove peſti<g ref="char:EOLhyphen"/>lentiall and ſo indanger the whole Nation. And as for the
+<hi>Ship-money,</hi> it was indeed illegall; nor could the King iuſtifie it: yet it was but light in compariſon of the vaſt ſums, and never ceaſing impoſitions the Parlia<g ref="char:EOLhyphen"/>ment have laid and doe ſtill lay upon us contribution, twentith and fifth parts, Exciſe, weekly aſſeſſements, (pennance pence) allowance (I mean) for our faſtings, Sequeſtrations of Houſes, lands, goods, moneys, jewells, cattell, cloths, and what not, unleſſe wives and children, the which (like the greedy tyth taking Prieſts) they will neither pittie nor take care for, and notwithſtanding all this, and all the cuſtomes the which they receive pur<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſely to <hi>guard the Seas,</hi> and all the Kings revenues. The Navie hath been worſe maintained and ordered, and the Seas have been worſe guar<g ref="char:EOLhyphen"/>ded then in the worſt of the Kings dayes, and many taken <hi>Captives,</hi> yea, the other day a ſhip which was bound with proviſions for diſtreſſed <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> was t ken upon our own coaſts (as I may ſay) from under our own walls and carried pr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>z<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>to <hi>France,</hi> well looked to Green Bence, Vaſſall, and the reſt of the Committee, yee have more care to rake money then to
+<pb n="9" facs="tcp:160344:6"/>looke to the Sea, or care for the Navie. And I much marvell (fellow Commoners) that the Parliament which as ye read ſeemed when they did remonſtrate to be ſo ſenſible of their fellow Subiects, being taken Cap<g ref="char:EOLhyphen"/>tives being made ſlaves by the Turkes and Moores, ſhould notwithſtan<g ref="char:EOLhyphen"/>ding an act paſſed by the King this preſent Parliament for their releaſe, and reliefe, never take any courſe unto this day for to redeem thoſe poor ſoules out of ſlavery. Where and what is become of all thoſe moneys, which (as I remember) were raiſed and collected for that good Chriſtian worke; received and diſpoſed, (as the moſt of the reſt as is ſuppoſed) in<g ref="char:EOLhyphen"/>to private pockets, and to particular uſes?</p>
+            <p>Then they complaine of <hi>the inlargement of Forreſts, contrary to Charta Foreſta,</hi> this was not ſo bad in the King as the i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>la<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gement of p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iviledges is in the Parliament: that was injurious but to ſome perſons in ſpeciall this is to all in generall. For the priviledges of Parliament, are growne like the rules of Kings Bench priſon, without limits, for if ye doe but preſent, nay only prepare a petition contrary to the humours of the prev<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lent malevo<g ref="char:EOLhyphen"/>lent party; be it never ſo legall and neceſſary, demand juſtice, or tell any of them of their ſhameleſſe injuſtice, it is preſently voted a breach of their priviledge, but they themſelves may threaten, and revile perſons, check and reproach, yea impriſon wi neſſes, and affront and aſſault men con<g ref="char:EOLhyphen"/>trary to the law, and the nature of their places, take them by the coller and pull them by the throat, (and that only becauſe they are advertiſed of their evill (as haughty Mr. <hi>Hollis</hi> did lately Major <hi>Tulidah,</hi> in a word, ac<g ref="char:EOLhyphen"/>cording to the expreſſion of ſome of them, they may doe what they liſt, and ſome of them doe accordingly act all manner of violence and inju<g ref="char:EOLhyphen"/>ſtice by vertue of their priviledges. O admirable priviledges, whoſe uncir<g ref="char:EOLhyphen"/>cumciſed bounds are ſo abſolutely deſtructive to our lawes, rights and li<g ref="char:EOLhyphen"/>berties. Then they tell you of exacting Coat and Conduct money, and divers other military charge,; and of a deſperate deſigne of ingroſſing all the <hi>Gun-powder</hi> into one hand, and keeping it in the Tower of London, and of the taking away the Armes of the Trained bands of divers Coun<g ref="char:EOLhyphen"/>ties, &amp;c. Though the
+<hi>Parliament</hi> have not exacted money under the noti<g ref="char:EOLhyphen"/>on of <hi>Coat and Conduct,</hi> yet they have exacted (and ſtill doe exact of you) large ſums of money to pay their Armies, and for other military charges, and though they have not taken away the Armes of your Trained bands, yet they have taken away your ſervants, and cauſed you to find both men and Arms, to do them ſervice, yea &amp; they have contrary to law ſent forth your Trained bands and their Armes, to the hazard of the places from whence they went, (eſpecially of London City, but the diſceived fooles <pb n="10" facs="tcp:160344:7"/>did not ſee (the which the King never did, as for the <hi>deſigne of ingroſſing all the Gun powder into one hand,</hi> it was not ſo bad as is the deſigne of ſome men in the Parliament, of ingroſſing the ſtock of all the moneyes, power, and priviledges of the whole land into their hands, by which means the peo<g ref="char:EOLhyphen"/>ple ſhall be utterly impoveriſhed and made ſlaves.</p>
+            <p>Then they complaine of <hi>ſelling the Kings timber, the taking away of mens right under colour of the Kings title to land, between high and low water markes. Of the Monopolies of Sope, Salt, &amp;c. the reſtraint of the liberties of the Subiects in their habitation, trades, and other intereſt.</hi> And who had more right to ſell the Kings timber then himſelfe, they cannot ſay he ſold any but his owne, and what he had a lawfull right and intereſt in: but many of the Parliament have deſtroyed other mens timber, and ſold abundance both of woods and goods, ſince theſe fatall warres and put the moneys (I be<g ref="char:EOLhyphen"/>leeve into their own purſes, whereunto they had neither title or intreſt, and (to omit thoſe who have indeed been Delinquents) how many mens rights, even whole eſtates, have theſe wicked men of the Parliament ta<g ref="char:EOLhyphen"/>ken away, under colour of Delinquency (the (right) <hi>between high and low water mark<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>) the owners whereof have been no Delinquents. I need not inſtance examples, too many of their own friends can teſtifie againſt them. Only one or two for a proofe, as Mr.
+<hi>Antrobus</hi> an honeſt pious Mi<g ref="char:EOLhyphen"/>niſter of the Goſpel in
+<hi>Cumberland,</hi> one who hath both paid to them and ſuffered for them, and for his fidelitie is intruſted as a Commiſſioner with Mr.
+<hi>Muſgrave</hi> by his country, to ſolicit the Houſe for redreſſe of their grievances, had his benefice to the value of a 100. <abbr>l.</abbr> yearly, and his eſtate the other day adjudgd to be ſequeſtred &amp; taken away for Delinquencie, to no diſadvantage I hope, of the Earle of
+<hi>Northumb.</hi> and Mr. <hi>Barwis,</hi> a Member of the Houſe of Commons (of whom more hereafter) one of the Common wealths deceitfull ſervants and falſe friends. In like manner (as I have heard) was the Vicar of the rich Viccarage of <hi>Wiggen</hi> in <hi>Lanca<g ref="char:EOLhyphen"/>ſhire</hi> ſerved, who afterwards dyed in the Parliament ſervice &amp; quarrel, yet this was done that one Mr.
+<hi>Caſe</hi> a coveteous Prieſt, might be put in. I have indeed obſerved that ſince the Parliament got the power into their own hands, there hath not been a more ſure token of Delinquency in the eyes of ſome Parliament men, and coveteous Prieſts, then a faire houſe richly furniſhed, a pleaſant ſeat well wooded, a good office, and a fat benefice, or a flock well woolled, (and ſometime a deſire of revenge) might wit<g ref="char:EOLhyphen"/>neſſe Sir <hi>Garret kemp</hi> of <hi>Slindon,</hi> neare <hi>Chicheſter</hi> in
+<hi>Suſſex,</hi> a man of peace<g ref="char:EOLhyphen"/>able demeanor and converſation, and aged neare 80. yeares having many children and grand children, and an eſtate upwards, of 2000. <abbr>l.</abbr> per an<g ref="char:EOLhyphen"/>num <pb n="11" facs="tcp:160344:7"/>well wooded and a great perſonall eſtate was totally ſequeſtred to his dammage of neare
+20000. <abbr>l.</abbr> for denying to ſend his horſes to
+<hi>Chiche<g ref="char:EOLhyphen"/>ſter</hi> to aſſiſt Sheriffe <hi>Foord</hi> againſt the Parliament, and afterwards upon a ſecond warrant ſent from them by
+<hi>Foord</hi> upon paine of death, he being told by his ſervants the ſaid Sheriffe had declared he muſt have them, Sir <hi>Garret</hi> replyed, if they muſt have them let them have them, upon proofe of which words learned Mr.
+<hi>Sam. Brown,</hi> and the reſt of the reverend Committee of Lords and Commons for ſequeſtration, did adiudge and declare the confirmation of the Sequeſtration of his eſtate, and 10000. <abbr>l.</abbr> worth of Beech, (ſome of 500. yeares growth) becauſe beech cannot be ſuppoſed by them to be timber, hath felled and diſpoſed of although he hewed within 4. mile of the enemies Garriſon, and 20. mile diſtant of the Parliament fo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ces. As for the reſtraint of the liberties of the Subiect in their habitations. I ſay reſtraint in a mans habitation, is far better, more comfortable and tollerable, then to be reſtrained in a noyſome Gaole or priſon, where he can have no free communion with his wife, children, family or friends, and is expoſed to the ty<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anny of Gaolers, and all man<g ref="char:EOLhyphen"/>ner of oppreſſive charges. But why talke theſe men of <hi>reſtraint of the liber<g ref="char:EOLhyphen"/>ties of the Subiects in their habitations,</hi> when as they <hi>reſtrain</hi> the King (their ſovesaign Lord and ours, of liberty in his owne houſe, and that in ſuch a manner as is worſe then a priſon? for commonly and legally, men in pri<g ref="char:EOLhyphen"/>ſon may receive and right letters touching their owne affaires, and com<g ref="char:EOLhyphen"/>mune, diſcourſe, walke and talke, with any viſitant, friend or ſtranger, without prohibition, inſpection, incivill queſtion, or reſtriction: but ſo cannot <hi>Charles</hi> our King. A ſad and ſtrange condition. We ſay that by law a man ought not to be kept cloſe priſoner, and by the Petition of Right: it is declared, to be contrary to law, to impriſon a man without cauſe ſhewed or expreſſed. Yet is our King, and if they date deale ſo preſump<g ref="char:EOLhyphen"/>tuouſly with the King (their Soveraign Lord) contrary to law: doe you thinke (country men) they will if they can chuſe allow you law? no, no, be not deceived. But ye ſhall find more concerning this man our King, and this matter, and this treacherous parties (as they conceive) their un<g ref="char:EOLhyphen"/>diſcerned abuſes of him, and of the whole Kingdome through him, and their deſignes upon him and us by him, elſwhere following, as for <hi>Mo<g ref="char:EOLhyphen"/>nopolies,</hi> though they have taken away ſome yet they continue others, witneſſe among divers the Monopolie of<note n="*" place="margin">And a n<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Monopoli<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> lately gra<gap reason="illegible" resp="#OXF" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> by them t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Crew, an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>thers of t<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Norway t<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> Marchant adventurers, to the ſpoyling and deſtroying of the trade and lively hood of thouſands, who ſubſiſt by that ſtable trade of Cloathing And for the <hi>reſtraint of the liberty of the Subiect in other intereſt.</hi> I can tell you how they have by an illegall <pb n="12" facs="tcp:160344:8"/>Ordinance, reſtrained on Mr. <hi>Markham</hi> a Citizen of good repute in <hi>London,</hi> the true and lawfull Executer of one Mr. <hi>Gamble</hi> deceaſed<g ref="char:punc">▪</g> from receiving or medling with the eſtate and debts of the ſaid <hi>Gamble,</hi> and have apointed and authoriſed, Mr. <hi>Maud,</hi> and Mr. <hi>Bettiſon</hi> two other Citizens, who were but Overſeers, to receive and diſpoſe of the ſame, and nevertheleſſe they leave Mr. <hi>Markam</hi> the Executer open and lyable to pay all the teſtatours debts, Legacies, and duties, and to be accountable for the Eſtate. Is this an Act (my friends) befitting a Parliament, that would be accounted the preſerver of the Lawes, proprieties, and liberties of the free men of England? If this be that law, libertie, intereſt and pro<g ref="char:EOLhyphen"/>prietie, they ſeeme ſo zealous and ſwear ſo hard for, and declate ſo vehe<g ref="char:EOLhyphen"/>mently to mainetaine, I had rather be one of the Turkes Vaſſells, then one of Englands free Commons. They proceed and tell you of vexati<g ref="char:EOLhyphen"/>on and oppreſſion by Purveyours, Clerks of the Market, and Salt-peter men, the ſale of pretended nuzances, as buildings, in and about
+<hi>London,</hi> depopulation &amp;c. all which drew many Millions out of the Subiects pur<g ref="char:EOLhyphen"/>ſes, without any conſiderable profit to his Majeſtie. Doth not the vexa<g ref="char:EOLhyphen"/>tion and oppreſſion of the Parliament by their conſcience leſſe Commit<g ref="char:EOLhyphen"/>tee men and their Clerkes, their ſequeſtrators and their ſubſtitutes, Col<g ref="char:EOLhyphen"/>lectors, Receivers, Porſevants, Meſſengers and their deputies and aſſi<g ref="char:EOLhyphen"/>ſtants, Informers, and a multitude of Exciſe Cater pillars, (Publicans and Sinners) a rabble indeed of I know not what deſtroying officers, wholike the locuſts of <hi>Aegypt,</hi> overſpread the whole Kingdome, trancendantly exceed theſe other buſineſſes of Purveyors, Clerkes of the market, &amp;c. and what benefit profit or advantage at all have we had of all thoſe many millions of moneys the Parliament hath dreigned and ſcrued from us, and how have they diſpoſed of it? for they are but our Stewards, and it is very meet and juſt, that we ſhould have an account, but I feare they in<g ref="char:EOLhyphen"/>tend no ſuch matter if they can prevent it. And for the depopulation, which is the turning of
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rrable land, that is common fields, into paſture. J would this had been the worſt that had been done, for have not there bin divers acts of Parliament provided againſt it, and did not they juſtly de<g ref="char:EOLhyphen"/>ſerve to be deeply fined, who for their owne pride and unreaſonable lucre that (as the Scripture ſpeakes) they might live Lord like alo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in the midſt of the Earth, would deſtroy whole townes of tillage, where time out of mind there had been, many good houſes kept by the plough, for the entertainment of the ſtranger, and reliefe of the poore, where there had been ſo many Farmes occupyed by husbandry, to the ſuſtaining of many poore ſamilies by dayes labour, and many able farmers had lived, <pb n="13" facs="tcp:160344:8"/>that had yeelded aid and ſubſidies, to his Majeſtie for the ſervice of the Kingdome, whereas now in moſt of theſe places, the townes being depopulated and deſtroyed, and the people that be left beggered, and all the common fields and plough-land incloſed and turned into paſture yee ſhall find nothing for comfort or entertainment, but a poote Shepherd living (happily) in the midſt of a multitude of grounds, in a poore ſheep-Cote<g ref="char:punc">▪</g> ſtanding as a Cottage in the midſt of a Vineyard. But let ſuch men be aſſured that Lordlikeneſſe contracted by ſuch accurſed meanes, will never continue, and he that thinkes the poor and meane man, unworthy to live in the earth by him, may in due time either him or his poſteritie be to ſeeke a habitation, if not beg their bread. And for certaine ſome of our Parliament men, were and are guilty of this impoveriſhing deſtroy<g ref="char:EOLhyphen"/>ing practice, and becauſe they were deſervedly puniſhed for it, did there<g ref="char:EOLhyphen"/>fore complaine, though more of malice, then juſt cauſe.</p>
+            <p>Then they complaine, that <hi>large quantityes of common and ſeverall grounds have been taken from the ſubiect by colour of the ſtatute of improvement</hi> &amp;c and are not the ſam<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Commons and grounds detained ſtill unto this day, and no redreſſe or remedy miniſtred, and who is in fault but Parliament? and that not only private intereſt but alſo publique faith had been broken and is not the like dayly done, and ſhamefully continued by the Parliament, (the complainers of theſe abuſes) themſelves? and they ſay that the whole Kingdome was like to have been robbed by an abominable project of Brafle money. It ſeemes it was but a like, I will not ſay a— yet had they never lyed, we had never been deceived. But yee may be ſure (friends) and yee will find it certaine, if yee be not watchfull, and doe not take courage; and prevent them, that ſome of them have <hi>an abominable,</hi> treaſonable project <hi>to rob the whole</hi> Kingdome (if they can) not only of their <hi>moneys,</hi> but of that alſo which is more precious, their birthrights, and their liberties, and that at once ſuddenly. Then they tell you, that a <hi>great number of his Majeſties Subiects, for refuſing thoſe unlawfull charges, have been vext by long and expenſive ſuits, ſome fined, ſome cenſured, impriſoned, &amp;c that others have had their houſes broke up, th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir goods ſeized, and beene reſtrained from their callings,</hi> with many other aſſertions, not anſwe<g ref="char:EOLhyphen"/>table to thoſe grievous preſſures we now feele. And have not great num<g ref="char:EOLhyphen"/>bers not only of Delinquents, but alſo of their owne friends, for refuſing (becauſe perhaps not able) to pay their unlawfull and unreaſonable taxes and charges, been vexed with long tedious and expenſive, attendances, on themſelves, and their ſhameleſſe Committees, every way equivolent to long ſuits? have not ſome had their Horſes and Cartell taken and dri<g ref="char:EOLhyphen"/>ven <pb n="14" facs="tcp:160344:9"/>away, ſome been impriſoned and plundered, and others had their houſes broken up; or forceably entred, and their goods ſeized, and made a pray on to their utter undoing? And whereas they ſay, that <hi>the Starre Chamber did abound in extravagent cenſures, not only for the maintenance, and improvement of Monopolies and other unlawfull taxes, but for divers other cau<g ref="char:EOLhyphen"/>ſes where there hath beene no offence or very ſmall, &amp;c.</hi> Whether any Court or Counſe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that ever was within the memory of man, in this Kingdome, did ever more abound (I Will not only ſay) with extravagent, but with wild, wicked<g ref="char:punc">▪</g> contradictory, diſtracted, unjuſt, illegall, unreaſonable and uncolourable Votes, Sentences, ſayings, Ordinances, Orders and Cen<g ref="char:EOLhyphen"/>ſutes, then this preſent Parliament, and their Committees, (and all through the ſubtil<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of the ſame evill party.) I appeale not only to the whole land, but all the world, and thoſe not only for the maintenance and improvement of their unjuſt, unreaſonable, and mercileſſe ſequeſtrations, and others their like inſupportable taxes, and charges, things more grie<g ref="char:EOLhyphen"/>vous, then precedent
+<hi>Monopolies,</hi> but for other cauſes, worſe and more unrighteous; and that generally where the offence hath been very ſmall or none at all. As the Committing of Major <hi>Tulidah,</hi> and Mr. <hi>Tew,</hi> doe veri<g ref="char:EOLhyphen"/>fie wherby his Majeſties Subjects, they ſay have been oppreſſed, not more then at this preſent I am certain, by grievous Fines, impriſonments, Stig<g ref="char:EOLhyphen"/>matizings, mutilation, &amp;c. theſe acts were then grievous to them it ſeems. yet now their fingers itch to be exerciſing them upon others, if they had but oppertunity, what meanes elſe that Declaration of the 31. of
+<hi>Decemb.</hi> laſt, but I hope that as God did then, ſo he will now, by his over-ruling providence, give an interruption to the prevailing power and counſell of thoſe who are the Authors and Promoters of ſuch peremptory and heady courſes.</p>
+            <p>There they complaine alſo, that Judges have been put out of their pla<g ref="char:EOLhyphen"/>ces for refuſing to doe againſt their oaths, &amp;c. men they were it ſeeme<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> more conſcionable then themſelves, and now by their uſurped authority Judges are made and put into places. who are glad to obſerve and ſerv<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their wills. For it is not meet nor good manners for theſe Iudges to op<g ref="char:EOLhyphen"/>poſe or contradict, <hi>Glyn, Maynard, Prideaux, Brown, Wilde,</hi> or any other of their maſters, in any thing they plead or move before them, and ſo ye plainly ſee, that our grave Iudges are ſtill in effect but <hi>Durante bene placit<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Lawyers, they ſay, have been checkt for being faithfull to their Clyents Solicitovrs and Atturneys, have been threatned and ſome puniſhed ſo following law ſuits, and that by this meanes all the approaches of iuſtic<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were forecluded. If Lawyers, Solicitours and Atturneys be not now<gap reason="missing" extent="1 page">
+                  <desc>〈1 page missing〉</desc>
+               </gap>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
